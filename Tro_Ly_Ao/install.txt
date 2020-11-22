@@ -1,0 +1,13 @@
+
+// Thư Viện Nói
+pip install pyttsx3
+
+// Thư Viện Nghe
+pip install speechrecognition
+pip install pipwin
+pipwin install pyaudio
+
+// Thư Viện Nói Tiếng Việt
+pip install gTTS
+pip install SpeechRecognition
+pip install playsound
